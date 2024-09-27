@@ -1,1 +1,1 @@
-FROM openjdk:17-ea-slim-buster
+FROM openjdk:24-ea-15-oraclelinux8
